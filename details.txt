@@ -1,0 +1,4 @@
+Name = Shuvrajeet
+Roll No = DA24D402
+Github = https://github.com/TheUnsolvedDev/DA6401_DeepLearning_Assignment2
+Wandb Report = https://wandb.ai/da24d402-indian-instite-of-technology-madras/DA24D402_DL_2/reports/DA6401-Assignment-2--VmlldzoxMjM2MzYxNw?accessToken=he01sri5jao05aplpvi0x570jao47gef2dwcuine5k62fjn34gzbz5djmsj6uufh

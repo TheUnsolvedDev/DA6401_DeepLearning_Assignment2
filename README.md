@@ -1,4 +1,4 @@
-# cs6910_assignment2
+# DA6401 Deep Learning Assingment
 
 ## **Deep Learning Assignment 2**
 
